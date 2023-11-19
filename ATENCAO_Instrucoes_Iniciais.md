@@ -4,7 +4,8 @@
 !!!!!!!!!!   I M P O R T A N T E   L E R   AS   I N S T R U Ç Õ E S   !!!!!!!!!!
 Necessário seguir as instruções abaixo para as querys sairem corretamente. 
 
-1 - Inicilmente, organizei o banco de dados entregue para o desafio; 
+1 - Inicilmente, organizei o banco de dados entregue para o desafio
+
 2 - Alguns dados estavam como arquivo de text ou pasta do excel, transformei todos em .csv e separei cada tabela como arquivo .csv
 3 - O banco de dados organizado está upado como .zip designado por "Banco_Dados_Desafio_Refera" com 8 tabelas
 4 - Nomes das tabelas: categoria; clientes; escritorio; fornecedores; funcionarios; logistica; produtos_ID; produtos_VL
