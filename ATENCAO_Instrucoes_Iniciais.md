@@ -30,5 +30,16 @@ Necessário seguir as instruções abaixo para as querys sairem corretamente.
 
 13 - Executei o restante das querys para responder as perguntas do desafio
 
+14 - Perguntas do desafio: 
+● Valor total das vendas e dos fretes por produto e ordem de venda;
+● Valor de venda por tipo de produto;
+● Quantidade e valor das vendas por dia, mês, ano;
+● Lucro dos meses;
+● Venda por produto;
+● Venda por cliente, cidade do cliente e estado;
+● Média de produtos vendidos;
+● Média de compras que um cliente faz.
+
+
 !!!!!!!!!! Desejo boas consultas e qualquer duvida pode me encontar no LinkedIn: www.linkedin.com/in/thiagochalaca !!!!!!!!!!
 
